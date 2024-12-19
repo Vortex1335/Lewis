@@ -1,2 +1,2 @@
 # Lewis
-My personal site (projects, code, about, etc.)
+My website code for anything I want to make but couldn't find a place to put it
